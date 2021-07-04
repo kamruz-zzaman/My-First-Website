@@ -14,7 +14,7 @@ section{
 }
     
 .top-banner{
-    background-image: url("/images/top-banner.png");
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
 .half-width{
@@ -35,7 +35,7 @@ background-image: linear-gradient(rgb(235, 65, 13),rgba(255, 17, 0, 0.74));
 border-radius: 5px;
 }
 .second-sec{
-    background-image: url(/images/dream-bg.png);
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -43,7 +43,7 @@ border-radius: 5px;
     text-align: justify;
 }
 .final-sec{
-    background-image: url("/images/exp-bg.png");
+    background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position:left;
 }
